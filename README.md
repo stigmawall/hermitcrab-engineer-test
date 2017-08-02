@@ -26,6 +26,7 @@ Exemplo da idéia: https://www.youtube.com/watch?v=yHlzje7TDlM
 - A altura em que a bola deve estar para o toque funcionar não deverá ser muito ampla;
 - Será necessário fazer uma transição entre cenas. Então o jogo terá uma Tela de Iniciar Jogo com um tutorial de como jogar e a tela de jogo, com as condições para perder o jogo caso o jogador;
 - Não é necessário ter uma animação gráfica do personagem quicando a bola;
+- O jogador poderá, através de um menu de botões na tela inicial, mudar a cor/textura da bola. 2 bolas ou mais são suficientes;
 - É importante que o projeto esteja configurado para funcionar em algum aparelho mobile (iOS ou Android);
 - O jogo deverá ter um cuidado especial com as HUDs para funcionar em diferentes telas (16:9, 16:10 e 4:3). Ele também deverá estar configurado como Portrait.
 
